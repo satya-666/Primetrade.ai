@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://cmr1x8v441xa70vf8tfvy21pi.fra.prisma.build/api/:path*" }
+  ]
+}
